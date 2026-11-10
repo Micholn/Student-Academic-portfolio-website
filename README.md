@@ -65,6 +65,4 @@ The original profile avatar and 3D project screenshot are loaded from public Git
 
 **JavaScript:** DOM manipulation, array methods and functions, click/change/submit events, `localStorage`, counters, filtering, task toggles and deletion, form validation using regular expressions, dynamic errors and email composition.
 
-## Notes
 
-Planner content belongs only to the browser in which it was created. It will survive refreshes in a normal browser but does not sync across devices. Three starter tasks are included as examples; you can delete them. The study schedule is deliberately labeled as an example rather than claiming to be your actual timetable.
